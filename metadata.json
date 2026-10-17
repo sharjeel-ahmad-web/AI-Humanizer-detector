@@ -1,0 +1,6 @@
+{
+  "name": "AuraHumanize - AI Text Humanizer & Plagiarism Analysis",
+  "description": "Enterprise-grade AI humanizer, style rewriter, plagiarism similarity detector, and document analysis SaaS with full REST backend ready for web and mobile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
